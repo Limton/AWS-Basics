@@ -3,8 +3,8 @@ from botocore.client import Config
 
 ## Defining AWS Key  , when accessing from remote server.
 
-ACCESS_KEY_ID = 'AKIAJMXGZPEVMPJOG25A'
-ACCESS_SECRET_KEY = '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'
+ACCESS_KEY_ID = 'AKIAJMXGZPEVMPdfdfdJOG25A'
+ACCESS_SECRET_KEY = 'zT5b4WBmfDAktIdfdfdVInAKMQ2wf0DB3zEJfv+NTOxmu'
 BUCKET_NAME = 'limton'
 Region ='us-west-2'
 
